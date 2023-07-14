@@ -1,4 +1,6 @@
-<img src="https://og.sznm.dev/api/generate?heading=nextarter-chakra&text=Next.js+template+with+Chakra-UI+and+TypeScript+setup.&template=color&center=true&height=330" />
+<img src="https://og.sznm.dev/api/generate?heading=nextarter-chakra-pages-router&text=Next.js+template+with+Chakra-UI+and+TypeScript+setup (Next.js Pages Router).&template=color&center=true&height=330" />
+
+For the App Router version, please check https://github.com/sozonome/nextarter-chakra
 
 <div align="center">
   <a href="https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fsozonome%2Fnextarter-chakra" target="_blank"><img src="https://vercel.com/button" alt="Deploy with Vercel" /></a> <a href="https://app.netlify.com/start/deploy?repository=https://github.com/sozonome/nextarter-chakra" target="_blank"><img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify" /></a> <a href="https://railway.app/new/template/aqmmai?referralCode=9lKVVo" target="_blank"><img src="https://railway.app/button.svg" alt="Deploy on Railway" height="32px" /></a>
@@ -14,14 +16,14 @@
 - 🚀 **Next.js 13** - **React 18**
 - ⛓️ **TypeScript**
 - **Chakra-UI** v2
-- ✔️ **toolings** for linting, formatting, and conventions configured 
+- ✔️ **toolings** for linting, formatting, and conventions configured
   - `eslint`, `prettier`, `husky`, `lint-staged`, `commitlint`, `commitizen`, and `standard-version`
   - `pre-commit`, `pre-push`, `commit-msg`, `prepare-commit-msg` hook configured
 - 📱 **PWA-ready** - `next-pwa` configured, disabled by default, just enable it through `next.config.js`
-- 🔎 SEO optimization configured - with `next-sitemap`. 
+- 🔎 SEO optimization configured - with `next-sitemap`.
   - you'll need to reconfigure or tinker with it to get it right according to your needs, but it's there if you need it.
 - 🎨 basic responsive layout configured - don't need it? just remove it 😃
-- 🤖 **Automatic Dependency Update** with [Renovate](https://renovatebot.com/) 
+- 🤖 **Automatic Dependency Update** with [Renovate](https://renovatebot.com/)
 - 🏎️ **Turbo** setup
 - 🧪 **Playwright** E2E Test
 

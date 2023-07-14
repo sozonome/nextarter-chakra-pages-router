@@ -9,6 +9,7 @@ import {
   Flex,
 } from '@chakra-ui/react';
 import Link from 'next/link';
+import { NextSeo } from 'next-seo';
 
 import MotionBox from '~/lib/components/motion/Box';
 
@@ -17,6 +18,7 @@ const Page500 = () => {
 
   return (
     <Flex minHeight="70vh" direction="column" justifyContent="center">
+      <NextSeo title="500 Server Side Error Occured" />
       <MotionBox
         animate={{ y: 20 }}
         transition={{ repeat: Infinity, duration: 2, repeatType: 'reverse' }}
