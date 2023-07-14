@@ -1,4 +1,4 @@
-<img src="https://og.sznm.dev/api/generate?heading=nextarter-chakra-pages-router&text=Next.js+template+with+Chakra-UI+and+TypeScript+setup (Next.js Pages Router).&template=color&center=true&height=330" />
+<img src="https://og.sznm.dev/api/generate?heading=nextarter-chakra-pages-router&text=Next.js+template+with+Chakra-UI+and+TypeScript+setup%20(Next.js%20Pages%20Router).&template=color&center=true&height=330" />
 
 For the App Router version, please check https://github.com/sozonome/nextarter-chakra
 
